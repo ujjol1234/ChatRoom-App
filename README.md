@@ -6,9 +6,8 @@ A modern real-time chat application built with **Android Jetpack Compose** and *
 
 *Watch the app in action with two phones communicating with each other:*
 
-<!-- Replace this placeholder with your actual video -->
-[![Watch the video]]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/shorts/d_kPsda-MKU?feature=share
-))
+
+[![Demo Video](https://img.youtube.com/vi/vP-jHtImXB0/0.jpg)](https://youtu.be/vP-jHtImXB0)
 
 
 *This section will showcase:*
@@ -165,17 +164,6 @@ To test real-time communication between devices:
 - **Real-time Indicators**: Live message delivery status
 - **Responsive Layout**: Adapts to different screen sizes
 - **Dark/Light Theme**: Supports system theme preferences
-
-## 🔮 Future Enhancements
-
-- [ ] Push notifications for new messages
-- [ ] Image and file sharing capabilities
-- [ ] User profile pictures
-- [ ] Message reactions and replies
-- [ ] Room administration features
-- [ ] Message encryption
-- [ ] Voice messages
-- [ ] Group video calls
 
 ---
 
